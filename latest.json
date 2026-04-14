@@ -1,15 +1,15 @@
 {
   "version": "v0.1.19",
   "notes": "Обновление до версии v0.1.19",
-  "pub_date": "2026-04-14T18:33:43Z",
+  "pub_date": "2026-04-14T18:44:10Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ОТСУТСТВУЕТ",
-      "url": "https://raw.githubusercontent.com/SkvorikovCode/VibeMode-Releases/master/VibeMode_0.1.19_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblM1RjI1RGw3VGYzTDhwTFcvRFczUWZxbEZmWHBwRStvYW9jZUYvVWZpbEhlK1BVemRLMWY1ZEhIdEQ0ZzdrU3FMcE9jc1AvMzUwWXNwWVM1czVSRG5UcEoyNllwTlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTkyMjIzCWZpbGU6VmliZU1vZGUuYXBwLnRhci5negorVE5rWXVXTGhRV2NiOXJMaTBCZFppWW9mVW5xNjU1dXRUVTNBNm1EZW9OSEFIdW4zWUxzN1ozcTFCMllyUnVlNVhjTG9TekxwOTlKZDlDQXFBZVZBQT09Cg==",
+      "url": "https://raw.githubusercontent.com/SkvorikovCode/VibeMode-Releases/master/VibeMode.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "ОТСУТСТВУЕТ",
-      "url": "https://raw.githubusercontent.com/SkvorikovCode/VibeMode-Releases/master/VibeMode_0.1.19_x64-setup.nsis.zip"
+      "url": "https://raw.githubusercontent.com/SkvorikovCode/VibeMode-Releases/master/VibeMode_0.1.19_x64-setup.exe"
     }
   }
 }

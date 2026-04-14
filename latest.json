@@ -1,15 +1,19 @@
-﻿{
-  "version": "v0.1.19",
-  "notes": "Обновление до версии v0.1.19",
-  "pub_date": "2026-04-14T20:41:25Z",
+{
+  "version": "v0.1.20",
+  "notes": "Обновление до версии v0.1.20",
+  "pub_date": "2026-04-14T20:57:12Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblM1RjI1RGw3VFdrdXgvNnhpWlhTaEVNTEtDY2xDbHlONzJ4WHEyYjBKUlMwNGdubC9HWTNKekNFUHdidGJqNkRTQ2xNVUJIRXBaL0NOWlNMS0c4NTU0K0NyTDB4WndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTk4NzI0CWZpbGU6VmliZU1vZGUuYXBwLnRhci5negpGUzE0S2g3NG5reVZJZCt2elBUSUlQZjlCbjhwQ0JhVVh3b0lsajBhc0FlSmFGbmNJdnpDc1h2OExZRytiMG9FdXJ0MndqckVia1hXUXBSM0IxUEtBQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblM1RjI1RGw3VFdBcU1PN1FCV0ZDelpoTzNDOEFLejFuOWpKS1VrQmcwQ3ZMZHU5aGdRdWhQK2drdmtzcXBLWXNEdER1cEJQK3dQRFJJdE5idjI2TVAyaTdZdmdoYkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTk5OTc0CWZpbGU6VmliZU1vZGUuYXBwLnRhci5negptWXUwMDdsVnRNaHk0eVVZQmFjcXJmY0gzR0F3ald1ZDA1QUVwUnNlS2lSQWFycExkNWlnYUhBcHcrTy9ZZVh3d3Z2bWFnMjNMdEZxdW9sNXEraWFEUT09Cg==",
+      "url": "https://raw.githubusercontent.com/SkvorikovCode/VibeMode-Releases/master/VibeMode.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblM1RjI1RGw3VFdBcU1PN1FCV0ZDelpoTzNDOEFLejFuOWpKS1VrQmcwQ3ZMZHU5aGdRdWhQK2drdmtzcXBLWXNEdER1cEJQK3dQRFJJdE5idjI2TVAyaTdZdmdoYkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTk5OTc0CWZpbGU6VmliZU1vZGUuYXBwLnRhci5negptWXUwMDdsVnRNaHk0eVVZQmFjcXJmY0gzR0F3ald1ZDA1QUVwUnNlS2lSQWFycExkNWlnYUhBcHcrTy9ZZVh3d3Z2bWFnMjNMdEZxdW9sNXEraWFEUT09Cg==",
       "url": "https://raw.githubusercontent.com/SkvorikovCode/VibeMode-Releases/master/VibeMode.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblM1RjI1RGw3VFR4RDJYbGp4UWFtaEQ1cFBRNnNnemdvMkxIYXErODUyczZGaGVheWNkLzc2dUZPS2U1Y3lPWCsxclYrcGJrM1VhUTBGdUpudGIrUGxOU2M3NDlqbHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTk5MjgzCWZpbGU6VmliZU1vZGVfMC4xLjE5X3g2NC1zZXR1cC5leGUKSEhSaGdxZVp5eXJpQ0N3eFdoakRWNEE1TlVmbmpIUUJFWTlNTXlsc05TZDduaVFnU0ZwQXU2NTB1M3NaNmlLSGgzK0ZkL0gyMXBjbzgrNnlkU2xqQ1E9PQo=",
-      "url": "https://raw.githubusercontent.com/SkvorikovCode/VibeMode-Releases/master/VibeMode_0.1.19_x64-setup.exe"
+      "url": "https://raw.githubusercontent.com/SkvorikovCode/VibeMode-Releases/master/VibeMode_0.1.20_x64-setup.exe"
     }
   }
 }

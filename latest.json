@@ -1,15 +1,15 @@
 {
-  "version": "v0.1.18",
-  "notes": "Обновление до версии v0.1.18",
-  "pub_date": "2026-04-14T11:48:38Z",
+  "version": "v0.1.19",
+  "notes": "Обновление до версии v0.1.19",
+  "pub_date": "2026-04-14T17:36:41Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "ОТСУТСТВУЕТ",
-      "url": "https://raw.githubusercontent.com/SkvorikovCode/VibeMode-Releases/master/VibeMode_0.1.18_aarch64.app.tar.gz"
+      "url": "https://raw.githubusercontent.com/SkvorikovCode/VibeMode-Releases/master/VibeMode_0.1.19_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "ОТСУТСТВУЕТ",
-      "url": "https://raw.githubusercontent.com/SkvorikovCode/VibeMode-Releases/master/VibeMode_0.1.18_x64-setup.nsis.zip"
+      "url": "https://raw.githubusercontent.com/SkvorikovCode/VibeMode-Releases/master/VibeMode_0.1.19_x64-setup.nsis.zip"
     }
   }
 }

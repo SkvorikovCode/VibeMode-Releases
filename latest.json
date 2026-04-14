@@ -1,14 +1,14 @@
 {
   "version": "v1.1.22",
   "notes": "Обновление до версии v1.1.22",
-  "pub_date": "2026-04-14T23:51:06Z",
+  "pub_date": "2026-04-14T23:59:20Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblM1RjI1RGw3VFlzbGw4akRVR1Bxb21yZlRwRWw3eTcweFBhejZPcHVjdkxzKzJ4RG5wWERIZzdWRzUycUpvNGgybFk1emV5VkxlZXBTZ3Z2OEppeWIvVktzcjMzUFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjEwNDA1CWZpbGU6VmliZU1vZGUuYXBwLnRhci5nego4OVZFRUJ4UHZqeFpRQnljU3VJYzR1QnZLbGcwZGxzVHEyNmlLNDdkNUNiKzZJQlVKdGtmZkNjemRuSXU2R2VQcTFkMElXVElyWklsNUxYcXhpcXVCZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblM1RjI1RGw3VFdoRFBRdzJTVUZ0Y01QT0xNckRvVXZhT0NTZ3dwT0IwUi9sVS9EVEdETmdVKzhUeWVtdkNkV1lTQWdRSUdFL1ZLYWNiQW5YbkFhNDErdDJKa1p0a3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjExMDIzCWZpbGU6VmliZU1vZGUuYXBwLnRhci5negpJN3Y3ejBMdG51QnpSN2JFek85M3JmUFhVdk5HWCttc2M0eW4xZUFFS3BxTFQ0dUxmZDZ0Nkl0VlAyVW91bGpDMFNaRDBtWm9GRFFOTFdHWDlrT1hCQT09Cg==",
       "url": "https://raw.githubusercontent.com/SkvorikovCode/VibeMode-Releases/master/VibeMode.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblM1RjI1RGw3VFlzbGw4akRVR1Bxb21yZlRwRWw3eTcweFBhejZPcHVjdkxzKzJ4RG5wWERIZzdWRzUycUpvNGgybFk1emV5VkxlZXBTZ3Z2OEppeWIvVktzcjMzUFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjEwNDA1CWZpbGU6VmliZU1vZGUuYXBwLnRhci5nego4OVZFRUJ4UHZqeFpRQnljU3VJYzR1QnZLbGcwZGxzVHEyNmlLNDdkNUNiKzZJQlVKdGtmZkNjemRuSXU2R2VQcTFkMElXVElyWklsNUxYcXhpcXVCZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblM1RjI1RGw3VFdoRFBRdzJTVUZ0Y01QT0xNckRvVXZhT0NTZ3dwT0IwUi9sVS9EVEdETmdVKzhUeWVtdkNkV1lTQWdRSUdFL1ZLYWNiQW5YbkFhNDErdDJKa1p0a3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjExMDIzCWZpbGU6VmliZU1vZGUuYXBwLnRhci5negpJN3Y3ejBMdG51QnpSN2JFek85M3JmUFhVdk5HWCttc2M0eW4xZUFFS3BxTFQ0dUxmZDZ0Nkl0VlAyVW91bGpDMFNaRDBtWm9GRFFOTFdHWDlrT1hCQT09Cg==",
       "url": "https://raw.githubusercontent.com/SkvorikovCode/VibeMode-Releases/master/VibeMode.app.tar.gz"
     },
     "windows-x86_64": {

@@ -1,5 +1,9 @@
 # Changelog VibeMode
 
+## 1.1.23
+- [IMPROVED] Вкладка Changelog в `client` переведена на загрузку данных из `VibeMode-Releases/CHANGELOG.md` (GitHub raw), вместо локальной заглушки.
+- [ADDED] Добавлен парсинг тегов изменений `[ADDED]`, `[FIXED]`, `[IMPROVED]`, `[REMOVED]` для корректной цветовой индикации на фронтенде.
+
 ## 1.1.22
 - [FIXED] Исправлены всплывающие консольные окна на Windows при вызовах системных команд из Tauri.
 - [FIXED] Исправлены установки npm/npx из GUI: добавлены корректные пути `PATH` для macOS/Windows/Linux.

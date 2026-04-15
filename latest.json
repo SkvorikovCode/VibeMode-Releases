@@ -1,7 +1,7 @@
 {
   "version": "v1.1.23",
   "notes": "Обновление до версии v1.1.23",
-  "pub_date": "2026-04-15T08:52:02Z",
+  "pub_date": "2026-04-15T08:59:40Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblM1RjI1RGw3VFdYQUVWUWtQV3g2M3l0VmNwcFNyZk1acWVOL0Y2TUZVUEZwK0RpTjNITjJBZ2VGL29kSmxKNVpQSUlyZFFweS9nUXg2c1JjNlBrTWpvQk5DNzBxaHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjQyODYzCWZpbGU6VmliZU1vZGUuYXBwLnRhci5negpENkZ1UVkzajFhbDVwN3VzU050WXllN2tBaTE1U0hudzRjT29iRUVoajdtUnFmWnFGVC9hcmI5OXJwMHdQMTIzWTFtNGlUdDl5Z1l5b2JGMmViT0dDdz09Cg==",
@@ -12,8 +12,8 @@
       "url": "https://raw.githubusercontent.com/SkvorikovCode/VibeMode-Releases/master/VibeMode.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblM1RjI1RGw3VFgveXpNZTN2d2pVWXhFNXZnR0kvZk9oUnFTT3FJdjBpbWJ0MTRFdnB3R3h0Y1VDM2F4dzRYb2J6dWJ1M2wrQTRMbkMzMld4eWRHcm44VG10ZmpyUlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjA4NDg2CWZpbGU6VmliZU1vZGVfMS4xLjIyX3g2NC1zZXR1cC5leGUKS2FEbWRNOGVPdkJDeWJhWVZZUGdxa2dVc05Vc1d5ZFFvMGw4MTZkYXgvSHZPbzBJSksyY2tRd2VNS2VqdmZDbUlyQ04wSXJzek1hSTZ0TlpUbFEvQWc9PQo=",
-      "url": "https://raw.githubusercontent.com/SkvorikovCode/VibeMode-Releases/master/VibeMode_1.1.22_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblM1RjI1RGw3VGJqeWxHVm83dCtwRjFsZXJYRDQ1UzRoMTZLcHhLeTZPaW82OHE3d01MZFNLK2UvQUp0R1U2NVFGRVpvbks2TGR5bzZqQmJtNExRc1d6Y1hJcVVDdlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjQzNTc4CWZpbGU6VmliZU1vZGVfMS4xLjIzX3g2NC1zZXR1cC5leGUKUTB0QTdHaHdXMk9jS0llTXFwbjFKd2thb0JMVm1jZFJucFZyRFFseDByZ0JmQXMyS1loWUVLYVloSU1RSWR5S2t2VjEreEFLenpMMVBwU0l3MXU5QlE9PQo=",
+      "url": "https://raw.githubusercontent.com/SkvorikovCode/VibeMode-Releases/master/VibeMode_1.1.23_x64-setup.exe"
     }
   }
 }

@@ -1,16 +1,23 @@
-# VibeMode Changelog
+# Changelog VibeMode
 
-## 0.1.17
-- Added automatic app restart after applying an update
-- Added post-update automatic navigation to Changelog tab
-- Synchronized changelog with public release server for update banner
+## 1.1.22
+- [FIXED] Исправлены всплывающие консольные окна на Windows при вызовах системных команд из Tauri.
+- [FIXED] Исправлены установки npm/npx из GUI: добавлены корректные пути `PATH` для macOS/Windows/Linux.
+- [FIXED] Исправлена установка агент-пресетов OpenCode: запуск теперь идет из домашнего каталога пользователя, а не из каталога приложения.
+- [IMPROVED] Обновлен блок Agent Presets в OpenCode: добавлены понятные описания пресетов и пояснения по установке.
+- [IMPROVED] Переведен Claude Code в статус "Скоро", как у Cursor и Codex.
+- [FIXED] Обновлен release-пайплайн: исправлены Docker-контексты и подготовлены правки для стабильной Linux-сборки.
 
-## 0.1.16
-- Implemented global Tauri updater mechanism
-- Configured dynamic release payload sync
-- Fixed native M1 mac build artifact handling
+## 1.1.21
+- [IMPROVED] Обновлены артефакты и релизные метаданные для Windows (`.exe` + `.sig`).
+- [FIXED] Улучшена публикация `latest.json` для автoобновления.
 
-## 0.1.15
-- Automated Windows (.exe) and Linux (.deb, .rpm) build pipeline using Docker
-- Added automated code generation and script cleanup mechanisms
-- Fixed OpenCode agent model configurations and network fallback logic
+## 1.1.20
+- [ADDED] Актуализированы сборки macOS и Linux (`.dmg`, `.deb`, `.rpm`) для новой ветки версий 1.1.x.
+- [IMPROVED] Улучшена стабильность релизных скриптов и синхронизация артефактов между репозиториями.
+
+## 0.1.20
+- [ADDED] Выполнен релизный цикл предыдущей ветки с артефактами для macOS, Linux и Windows.
+
+## 0.1.19
+- [ADDED] Первый стабильный публичный релиз набора артефактов для автообновления.
